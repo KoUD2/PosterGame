@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 162">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: TTCommons-Medium, 'TT Commons';
+        font-size: 78.28px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #515151;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M606.15,15c14.81,0,26.85,12.05,26.85,26.85V120.15c0,14.81-12.05,26.85-26.85,26.85H41.85c-14.81,0-26.85-12.05-26.85-26.85V41.85c0-14.81,12.05-26.85,26.85-26.85H606.15m0-15H41.85C18.74,0,0,18.74,0,41.85V120.15C0,143.26,18.74,162,41.85,162H606.15c23.11,0,41.85-18.74,41.85-41.85V41.85c0-23.11-18.74-41.85-41.85-41.85h0Z"/>
+  <text class="cls-1" transform="translate(74.88 101.35)"><tspan x="0" y="0">введи</tspan><tspan class="cls-4" x="189.04" y="0">т</tspan><tspan class="cls-3" x="219.57" y="0">е кличку</tspan></text>
+</svg>
